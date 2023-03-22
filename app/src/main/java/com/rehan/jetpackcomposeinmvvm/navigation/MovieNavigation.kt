@@ -22,8 +22,6 @@ fun MovieNavigation(navHostController: NavHostController) {
 
         // Second screen
         composable(MovieNavigationItem.MovieDetails.route+"/{id}") {
-            // getting data id from first screen to second screen
-            val id = it.arguments?.getString("id")
             MovieDetailsScreen()
         }
     }
