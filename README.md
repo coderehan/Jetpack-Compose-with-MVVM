@@ -2,4 +2,4 @@
 
 <b>UI Screenshots:</b>
 
-<img src="https://user-images.githubusercontent.com/75351694/226641207-9bf87f34-f1b1-4412-a35b-613303c3beb8.png" width=30% height=30%><img src="https://user-images.githubusercontent.com/75351694/226641220-814e10a7-cc5e-493f-bfdd-f31f49dcef26.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/75351694/226908244-732aff03-6701-4bb5-8300-a0313e4ef5dc.png" width=30% height=30%><img src="https://user-images.githubusercontent.com/75351694/226908265-d1e8aed6-7134-4217-8318-9d488296f2fc.png" width=30% height=30%>
